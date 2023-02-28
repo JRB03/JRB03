@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JRB03
+- 👋 Hi, I’m Jack B @JRB03
 - 👀 I’m interested in Physics, ECE, CS, Software Developement, etc 
 - 🌱 I’m currently learning React, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ---
